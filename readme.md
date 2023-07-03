@@ -5,7 +5,7 @@ A JavaScript function to color a string with a rainbow gradient and add it to th
 ## Installation
 
 ```bash
-npm install rainbow-text
+npm install rainbow-text-gradient
 ```
 ## Usage
 
