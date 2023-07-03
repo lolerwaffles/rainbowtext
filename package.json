@@ -1,0 +1,26 @@
+{
+    "name": "rainbow-text",
+    "version": "1.0.0",
+    "description": "A JavaScript function to color a string with a rainbow gradient and add it to the body of the HTML document.",
+    "main": "rainbowText.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lolerwaffles/rainbowtext.git"
+    },
+    "keywords": [
+      "rainbow",
+      "text",
+      "gradient",
+      "color"
+    ],
+    "author": "Walter Williams <walter1982.ww@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/lolerwaffles/rainbowtext/issues"
+    },
+    "homepage": "https://github.com/lolerwaffles/rainbowtext#readme"
+  }
+  
